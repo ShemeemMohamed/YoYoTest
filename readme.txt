@@ -1,6 +1,6 @@
 Open YoYo.sln file in VS 2019
 
-make sure .Net Core SDK version is 3.1 or later
+make sure installed .Net Core SDK version is 3.1 or later
 Make "web" as start up project and and run.
 
 Projects
